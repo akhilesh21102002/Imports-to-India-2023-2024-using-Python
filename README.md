@@ -1,2 +1,5 @@
-Used Python to clean import data for India in 2023-2024 and visualize how ASEAN and Non-ASEAN countries contributed to the total imports.
-Also used a sankey diagram from plotly to visualize the top 15 import partners of India and the import amounts.
+# India Imports Analysis (2023–2024)
+
+This project analyzes India’s import data for 2023–2024 to compare contributions from ASEAN and Non-ASEAN countries.
+
+The analysis shows ASEAN countries are increasing their share, but China remains a dominant import partner. A Sankey diagram visualizes the flow of imports from India’s top 15 trading partners. Data analysis and visualizations were done using Python, Pandas, Seaborn, and Plotly.
